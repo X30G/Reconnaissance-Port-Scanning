@@ -1,6 +1,7 @@
 ⚠️ Disclaimer
 
     These scripts and techniques are provided for educational purposes only.
+    These scripts are my proof of concept for my coding ability.
     Use them only in controlled environments or with explicit permission.
     Unauthorized access to systems is illegal and unethical. Always follow responsible disclosure and ethical hacking principles.
 
