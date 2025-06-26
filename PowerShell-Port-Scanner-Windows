@@ -1,6 +1,6 @@
 # Simple PowerShell Port Scanner - Windows
 $target = "x.x.x.x"   # Change to your target IP
-$ports = 1..1024           # Range of ports to scan
+$ports = 1..1024      # Change port range if necessary
 
 foreach ($port in $ports) {
     try {
