@@ -1,0 +1,16 @@
+# Simple PowerShell Port Scanner
+$target = "x.x.x.x"   # Change to your target IP
+$ports = 1..1024           # Range of ports to scan
+
+foreach ($port in $ports) {
+    try {
+        $tcp = New-Object System.Net.Sockets.TcpClient
+        $tcp.Connect($target, $port)
+        if ($tcp.Connected) {
+            Write-Host "Port $port is OPEN" -ForegroundColor Green
+            $tcp.Close()
+        }
+    } catch {
+        # Port is closed or filtered
+    }
+}
