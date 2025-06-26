@@ -1,6 +1,6 @@
 # PowerShell-compatible port scanner for Linux (Kali - pwsh)
-$target = "x.x.x.x"
-$ports = 1..1024
+$target = "x.x.x.x"    # Change to IP of target
+$ports = 1..1024       # Change port range if necessary
 $timeout = 1000 # in milliseconds
 
 foreach ($port in $ports) {
