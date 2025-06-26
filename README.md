@@ -8,6 +8,7 @@
 📝 Notes
 
     Scripts are kept intentionally minimal for learning and extensibility.
+    The port scanner is not meant to replace nmap or nc
     Tested on Windows 10, Kali Linux (2025.2), and Ubuntu 22.04 with PowerShell Core.
     Contributions or suggestions welcome as I continue learning and refining.
 
