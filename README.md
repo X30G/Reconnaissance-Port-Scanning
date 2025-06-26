@@ -50,17 +50,17 @@ Scripts and example commands will be added in the `/osint` folder as development
 
 ```powershell Windows
 # Windows PowerShell
-# -----------------------
-# 1. Set Target and Ports
-# -----------------------
+ -----------------------
+ 1. Set Target and Ports
+ -----------------------
 
-# Replace this with the IP or hostname of your target machine
+Replace this with the IP or hostname of your target machine
 $target = "192.168.1.10"
 
-# Change the port range as needed
+Change the port range as needed
 $ports = 1..1000
 
-# Set timeout (in milliseconds) to avoid freezing on unresponsive ports
+Set timeout (in milliseconds) to avoid freezing on unresponsive ports
 $timeout = 1000
 
 Write-Host "`n[*] Scanning $target for open TCP ports from $($ports[0]) to $($ports[-1])..." -ForegroundColor Cyan
