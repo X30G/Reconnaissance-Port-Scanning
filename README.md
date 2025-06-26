@@ -14,7 +14,7 @@
 
 # 🔎 Reconnaissance
 
-This repository contains tools and techniques used during the **Reconnaissance** phase of penetration testing. It includes both **active** scanning (via custom port scanners) and **passive** information gathering (OSINT).
+This repository contains tools and techniques used during the **Reconnaissance** phase of penetration testing. It includes both **active** scanning (via custom port scanners).
 
 ---
 
@@ -28,25 +28,15 @@ Custom-built scripts to identify open ports on a target system.
 |--------|--------------|-----------------|-------------|
 | `portscan.ps1` | PowerShell    | Windows        | A basic TCP port scanner using native PowerShell commands. Designed for quick scans in Windows environments. |
 | `portscan.sh`  | Bash          | Linux/macOS    | Bash-based TCP scanner using `/dev/tcp` or `nc`. Lightweight and portable. |
-| `portscan_kali_pwsh.ps1` | PowerShell (Core) | Kali Linux (pwsh) | A PowerShell Core-compatible port scanner for use on Kali or any Linux distro with `pwsh`. |
+| `portscan_pwsh.ps1` | PowerShell (Core) | Kali Linux (pwsh) | A PowerShell Core-compatible port scanner for use on Kali or any Linux distro with `pwsh`. |
 
 Each script allows basic configuration (IP, port range) and outputs open ports in a readable format.
 
 ---
 
-### 2. 🌐 OSINT Techniques
 
-Passive information gathering tools and notes, including:
-- **Whois Lookups**
-- **DNS Enumeration** (`nslookup`, `dig`, `dnsenum`)
-- **Google Dorking**
-- **Shodan & Censys Queries**
-- **theHarvester** usage examples
-- Notes on passive vs active recon
 
-Scripts and example commands will be added in the `/osint` folder as development continues.
 
----
 
 ## 🧪 Example Usage
 
