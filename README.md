@@ -48,8 +48,8 @@ Scripts and example commands will be added in the `/osint` folder as development
 
 ## 🧪 Example Usage
 
-```powershell Windows
-# Windows PowerShell
+```powershell
+# Windows, Bash, PowerShell for Kali Linux (pwsh)
  -----------------------
  1. Set Target and Ports
  -----------------------
