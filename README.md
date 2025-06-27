@@ -14,7 +14,7 @@
 
 # 🔎 Reconnaissance
 
-This repository contains tools and techniques used during the **Reconnaissance** phase of penetration testing. It includes both **active** scanning (via custom port scanners).
+This repository contains tools and techniques used during the **Reconnaissance** phase of penetration testing. It includes **active** scanning (via custom port scanners).
 
 ---
 
