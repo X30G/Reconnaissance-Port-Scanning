@@ -2,7 +2,8 @@ PortScanner License
 
 Copyright (c) 2025 X30G
 
-This software is provided for ethical security research, authorized penetration testing, and educational purposes only. Unauthorized use of this software to scan, probe, or interact with systems without proper authorization is strictly prohibited.
+This software is provided for ethical security research, authorized penetration testing, and educational purposes only. Unauthorized use of this software to scan, probe,
+or interact with systems without proper authorization is strictly prohibited.
 
 By using this tool, you agree to:
 
@@ -12,4 +13,5 @@ By using this tool, you agree to:
 
 Permission is granted to use, copy, modify, and distribute this software freely, provided that this notice is included in all copies or substantial portions of the software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OR MISUSE OF THIS SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OR MISUSE OF THIS SOFTWARE.
