@@ -1,5 +1,9 @@
 # 🔎 Reconnaissance Port Scanner
 
+![Platforms: Windows 10, Kali Linux](https://img.shields.io/badge/platforms-Windows%2010%2C%20Kali%20Linux-blue) ![Category: Pentesting](https://img.shields.io/badge/category-Pentesting-red) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![Made with Bash & PowerShell](https://img.shields.io/badge/made_with-Bash%20%26%20PowerShell-yellowgreen) ![Warning](https://img.shields.io/badge/warning-Authorized%20Testing%20Only-orange)
+
+---
+
 This repository contains port scanning tools for PowerShell Windows and Powershell for Linux (pwsh), used for the **Reconnaissance** phase of penetration testing. These tools are for **active** scanning and not stealth.
 
 ---
